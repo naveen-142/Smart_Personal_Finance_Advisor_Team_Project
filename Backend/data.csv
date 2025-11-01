@@ -1,0 +1,5 @@
+Income,Additional_Income,Desired_Savings,Credit_Score,Rent,Loan_Repayment,Insurance,Groceries,Transport,Eating_Out,Entertainment,Utilities,Healthcare,Education,Miscellaneous,Occupation,Next_Income,Risk_Level
+50000,5000,15000,750,12000,5000,2000,6000,3000,2000,1500,2500,1000,0,1000,Salaried,18000,Low
+60000,0,20000,700,15000,10000,3000,7000,4000,2500,2000,3000,1500,0,1200,Self-Employed,22000,Medium
+40000,2000,10000,680,10000,2000,1500,5000,2000,1000,1000,2000,500,0,800,Salaried,12000,Low
+70000,10000,25000,800,18000,12000,2500,8000,5000,3000,2500,3500,2000,0,1500,Salaried,25000,High
