@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Django](https://img.shields.io/badge/Django-Backend-green)
 ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > A **Data-Driven Personal Finance Management System** that predicts savings, tracks expenses, and provides personalized financial recommendations using Machine Learning.
 
@@ -157,91 +156,6 @@ The project uses **SQLite3** for secure and lightweight data management.
 | **K. Maneesha** | Backend Developer | Supported Django API creation and model integration |
 | **V. Varun** | Frontend Developer | Developed UI components and integrated APIs |
 
----
-
-## 📘 References
-
-| Resource | Description | Link |
-|-----------|--------------|------|
-| Scikit-learn Documentation | Ridge Regression, Model Evaluation | [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/) |
-| Django Documentation | Backend and ORM Guide | [https://docs.djangoproject.com/en/stable/](https://docs.djangoproject.com/en/stable/) |
-| React Documentation | Frontend Components and Hooks | [https://react.dev/](https://react.dev/) |
-| Power BI Learning | Data Visualization Concepts | [https://learn.microsoft.com/en-us/power-bi/](https://learn.microsoft.com/en-us/power-bi/) |
-
----
-
-## 🏁 Conclusion
-
-The **Smart Personal Finance Advisor** successfully integrates data science, backend logic, and frontend design to deliver meaningful financial insights.  
-It transforms user data into actionable intelligence — helping users understand, plan, and optimize their finances in real time.
-
-Future enhancements include:
-- Multi-user authentication
-- Goal-based savings recommendations
-- Integration with live banking data for dynamic updates
-
----
-
-## 🖋️ Author & Contributors
-
-**Project Lead (Data Scientist):** [V. Naveen Kumar](your_github_profile_link_here)  
-**Full Stack Developer:** R. Hemanth  
-**Backend Developer:** K. Maneesha  
-**Frontend Developer:** V. Varun  
-**Data Analyst:** B. Aishwarya  
-
----
-
-## ⭐ How to Support
-
-If you found this project interesting:
-- Star ⭐ this repository  
-- Fork 🍴 and contribute  
-- Connect on [LinkedIn](your_linkedin_profile_here)
-
-
-📊 *System Architecture Diagram (Add Image Here)*
-
----
-
-## 👨‍💻 Roles & Responsibilities
-
-### 🧠 **Data Scientist (Naveen Kumar)**
-- Collected and preprocessed financial datasets  
-- Performed **EDA (Exploratory Data Analysis)** to identify spending patterns  
-- Built and tuned **Ridge Regression model** for savings prediction  
-- Evaluated model using **R²** and **MAE** metrics  
-- Integrated ML model with Django backend  
-- Deployed ML interface using **Streamlit**
-
-### 💻 **Backend Developer**
-- Developed Django APIs for data exchange  
-- Handled **database operations (SQLite3)**  
-- Managed model serving and integration with the frontend  
-
-### 🧩 **Frontend Developer**
-- Designed UI with **Bootstrap and JavaScript**  
-- Implemented pages: Home, Transactions, Advisor, Dashboard, History  
-- Connected frontend forms with backend APIs  
-
-### ⚙️ **Full Stack Developer**
-- Managed deployment across **Render** and **Vercel**  
-- Integrated frontend, backend, and ML components  
-- Handled bug fixes, testing, and optimization  
-
-### 📊 **Data Analyst**
-- Supported data exploration and visualization  
-- Created Power BI dashboards for financial insights  
-
-
-📷 *Add Screenshots Here for Better Readability*
-
-
-## 📂 Repository Structure
-
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
@@ -278,17 +192,53 @@ http://127.0.0.1:8000/
 
 - 💬 Build multi-language support for accessibility
 
-## 👥 Contributors
+## 📘 References
+
+| Resource | Description | Link |
+|-----------|--------------|------|
+| Scikit-learn Documentation | Ridge Regression, Model Evaluation | [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/) |
+| Django Documentation | Backend and ORM Guide | [https://docs.djangoproject.com/en/stable/](https://docs.djangoproject.com/en/stable/) |
+| React Documentation | Frontend Components and Hooks | [https://react.dev/](https://react.dev/) |
+| Power BI Learning | Data Visualization Concepts | [https://learn.microsoft.com/en-us/power-bi/](https://learn.microsoft.com/en-us/power-bi/) |
+
+---
+
+
+
+## 🏁 Conclusion
+
+The **Smart Personal Finance Advisor** successfully integrates data science, backend logic, and frontend design to deliver meaningful financial insights.  
+It transforms user data into actionable intelligence — helping users understand, plan, and optimize their finances in real time.
+
+Future enhancements include:
+- Multi-user authentication
+- Goal-based savings recommendations
+- Integration with live banking data for dynamic updates
+
+---
+
+## 🖋️ Author & Contributors
+
 
 | Name                     | Role                          | LinkedIn                                      | GitHub                                    |
 | ------------------------ | ----------------------------- | --------------------------------------------- | ----------------------------------------- |
 | **Naveen Kumar**         | Data Scientist & Project Lead | [LinkedIn](https://www.linkedin.com/in/naveen-kumar-viruvuru/) | [GitHub](https://github.com/yourusername) |
 | **Aishwarya**            | Data Analyst         | [LinkedIn](#)                                 | [GitHub](#)                               |
-| **Varun**                | UI/UX Design                  | [LinkedIn](#)                                 | [GitHub](#)                               |
-| **Maneesha**             | Django & Database             | [LinkedIn](#)                                 | [GitHub](#)                               |
-| **Hemanth**              | Deployment & Integration      | [LinkedIn](#)                                 | [GitHub](#)                               |
+| **Hemanth**              | Full Stack Developer | [LinkedIn](#)                                 | [GitHub](#)                               |
+| **Varun**                | Frontend Developer   | [LinkedIn](#)                                 | [GitHub](#)                               |
+| **Maneesha**             | Backend Develope      | [LinkedIn](#)                                 | [GitHub](#)                               |
 
 
+
+
+## ⭐ How to Support
+
+If you found this project interesting:
+- Star ⭐ this repository  
+- Fork 🍴 and contribute  
+- Connect on [LinkedIn](your_linkedin_profile_here)
+
+  
 ## 📧 Contact
 
 - Maintainer: Naveen Kumar
@@ -296,3 +246,10 @@ http://127.0.0.1:8000/
 - 📩 [Gmail](naveenkv681@gmail.com)
 - 🔗 [Linkedin](https://www.linkedin.com/in/naveen-kumar-viruvuru/)
 - 📘 [GitHub Profile](https://github.com/naveen-142)
+
+
+
+
+
+
+
